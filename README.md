@@ -2,13 +2,13 @@
 Terminal based calculator I wrote with GO as a begginer project.
 
 # Usage
-`Number 1 (1, 300, 43.432432)`
+`Number 1 (1+25, 300, 43.432432)`
 
 
 `Operator (+,-,*,/,:..)`
 
 
-`Number 2 (192, 3.14, 4096)`
+`Number 2 (118+10, 3.14, 4096)`
 
 
 
