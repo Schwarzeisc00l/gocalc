@@ -19,6 +19,8 @@ Required packages are:
 
 `wget` `sudo`
 
+
+
 `cd /tmp && sudo wget https://raw.githubusercontent.com/Schwarzeisc00l/gocalc/main/install.sh && sudo bash install.sh`
 
 
