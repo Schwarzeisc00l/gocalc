@@ -40,19 +40,19 @@ Firstly clone the repo locally and change the directory inside.
 Build.
 
 
-`go build gocalc.go`
+`$ go build gocalc.go`
 
 
 Give it permission to run as a binary.
 
 
-`chmod +x gocalc`
+`$ chmod +x gocalc`
 
 
 Move the binary to /usr/bin to easily execute it.
 
 
-`sudo mv gocalc /usr/bin/`
+`$ sudo mv gocalc /usr/bin/`
 
 Profit.
 
